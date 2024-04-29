@@ -1,0 +1,39 @@
+
+.main{
+    display: flex;
+    background-color: black;
+    padding: 15px;
+    height: 250px;
+    color: black;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 70px;
+    padding-top: 80px;
+  
+}
+
+.one{
+    font-size: 80px;
+    background-color: pink;
+}
+
+.two{ 
+    font-size: 80px;
+    background-color: green;
+}
+
+.three{
+    font-size: 80px;
+    background-color: orangered;
+}
+
+.four{
+    font-size: 80px;
+    background-color: red;
+}
+
+.five{
+    font-size: 80px;
+    background-color: grey;
+    }
+
